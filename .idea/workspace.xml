@@ -9,11 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="160d7767-496d-4b2f-b420-ac706c1fefa2" name="Changes" comment="Almost final version without AOP">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rustamov/spring/mvc_hibernate_aop/aspect/MyLoggingAspect.java" afterDir="false" />
+    <list default="true" id="160d7767-496d-4b2f-b420-ac706c1fefa2" name="Changes" comment="Ready project with aop, MVC, CRUD">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/all-employees.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/all-employees.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/employee-info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/employee-info.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,6 +173,10 @@
       <workItem from="1704430910265" duration="628000" />
       <workItem from="1704437337896" duration="4526000" />
       <workItem from="1704451857055" duration="5031000" />
+      <workItem from="1704522166483" duration="984000" />
+      <workItem from="1704543291456" duration="2324000" />
+      <workItem from="1704605182449" duration="2581000" />
+      <workItem from="1704610374110" duration="1604000" />
     </task>
     <task id="LOCAL-00001" summary="в">
       <option name="closed" value="true" />
@@ -198,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704455039135</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ready project with aop, MVC, CRUD">
+      <option name="closed" value="true" />
+      <created>1704522548947</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704522548947</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,6 +218,7 @@
     <MESSAGE value="Did" />
     <MESSAGE value="Hello" />
     <MESSAGE value="Almost final version without AOP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Almost final version without AOP" />
+    <MESSAGE value="Ready project with aop, MVC, CRUD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ready project with aop, MVC, CRUD" />
   </component>
 </project>
