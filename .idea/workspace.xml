@@ -9,11 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="160d7767-496d-4b2f-b420-ac706c1fefa2" name="Changes" comment="Ready project with aop, MVC, CRUD">
+    <list default="true" id="160d7767-496d-4b2f-b420-ac706c1fefa2" name="Changes" comment="Version with css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/all-employees.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/all-employees.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/employee-info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/employee-info.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rustamov/spring/mvc_hibernate_aop/DAO/EmployeeDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rustamov/spring/mvc_hibernate_aop/DAO/EmployeeDAOImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,8 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Java&quot;
   }
 }</component>
   <component name="RunManager">
@@ -177,6 +176,17 @@
       <workItem from="1704543291456" duration="2324000" />
       <workItem from="1704605182449" duration="2581000" />
       <workItem from="1704610374110" duration="1604000" />
+      <workItem from="1704613168548" duration="54000" />
+      <workItem from="1704629399645" duration="324000" />
+      <workItem from="1704699108565" duration="1162000" />
+      <workItem from="1704700392740" duration="1569000" />
+      <workItem from="1704867964139" duration="2729000" />
+      <workItem from="1704979425977" duration="601000" />
+      <workItem from="1704992783247" duration="220000" />
+      <workItem from="1705037056863" duration="41000" />
+      <workItem from="1705222611895" duration="6000" />
+      <workItem from="1705222826646" duration="6592000" />
+      <workItem from="1705906953091" duration="75000" />
     </task>
     <task id="LOCAL-00001" summary="в">
       <option name="closed" value="true" />
@@ -210,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704522548947</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Version with css">
+      <option name="closed" value="true" />
+      <created>1704613215480</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704613215480</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -219,6 +237,11 @@
     <MESSAGE value="Hello" />
     <MESSAGE value="Almost final version without AOP" />
     <MESSAGE value="Ready project with aop, MVC, CRUD" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ready project with aop, MVC, CRUD" />
+    <MESSAGE value="Version with css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version with css" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
